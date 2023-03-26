@@ -1,0 +1,93 @@
+body{
+    color:rgb(49, 2, 2);
+    margin: 0;
+    text-align: center;
+    font-family:'Arimo', sans-serif;
+    
+}
+
+h1{
+
+    color: rgb(217, 6, 224);
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; 
+
+}
+
+h2{
+    color:rgb(181, 4, 197);
+    font-size: 2.5rem;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: normal;
+    padding-bottom: 10 px;
+}
+
+h3{
+    color:rgb(1, 99, 99);
+    font-family:'Courier New', Courier, monospace;
+}
+
+p{
+
+line-height: 2;
+
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a{
+
+    color:rgb(1, 99, 99);
+    font-family:'Courier New', Courier, monospace;
+    margin: 10px 20 px;
+}
+
+a:hover {
+    color:rgb(229, 255, 255);
+
+}
+.contenedorsuperior{
+    background-color:#EAF6F6;
+    position: relative;
+    padding: top 100px;
+
+}
+
+.contenedormedio{
+    margin: 100px 0;
+
+}
+.contenedorinferior{
+    background-color: aqua;
+    padding: 50px;
+}
+
+.filahabilidades{
+    width: 50%;
+    margin: 100 px auto 100 px auto;
+    text-align: left;
+}
+
+.pro{
+    text-decoration: underline;
+}
+.mensajeContacto{
+width: 40%;
+margin: 40 px auto 60px;
+}
+
+.copyright{
+color:#EAF6F6;
+}
+
+.nubesuperior{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
